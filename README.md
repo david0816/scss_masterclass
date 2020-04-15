@@ -4,26 +4,26 @@
 
 ## Flexbox:
 
-- [X] flex-direction
-- [X] flex-wrap
-- [X] justify-content
-- [X] align-items
-- [X] align-content
-- [X] order
-- [X] flex-grow
-- [X] flex-shrink
-- [X] flex-basis
-- [X] align-self
+- [x] flex-direction
+- [x] flex-wrap
+- [x] justify-content
+- [x] align-items
+- [x] align-content
+- [x] order
+- [x] flex-grow
+- [x] flex-shrink
+- [x] flex-basis
+- [x] align-self
 
 ## Grid:
 
-- [ ] grid-template-columns
-- [ ] grid-template-rows
-- [ ] grid-template-areas
-- [ ] grid-template
-- [ ] grid-column-gap
-- [ ] grid-row-gap
-- [ ] grid-gap
+- [x] grid-template-columns
+- [x] grid-template-rows
+- [x] grid-template-areas
+- [x] grid-template
+- [x] grid-column-gap
+- [x] grid-row-gap
+- [x] grid-gap
 - [ ] justify-items
 - [ ] align-items
 - [ ] justify-content
@@ -47,7 +47,7 @@
 - [ ] max-content
 - [ ] minmax
 - [ ] auto-fit
-- [ ] auto-fill 
+- [ ] auto-fill
 
 ## SCSS:
 
@@ -59,6 +59,7 @@
 - [ ] Responsive
 
 ## To Clone:
+
 - [ ] [https://besthorrorscenes.com/](https://besthorrorscenes.com/)
 - [ ] [https://paint-box.com/](https://paint-box.com/)
 - [ ] [http://10x19.co/](http://10x19.co/)
