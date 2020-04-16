@@ -42,7 +42,8 @@
 
 ### Keywords & Functions:
 
-- [ ] repeat
+- [x] repeat
+- [x] fr
 - [ ] min-content
 - [ ] max-content
 - [ ] minmax
