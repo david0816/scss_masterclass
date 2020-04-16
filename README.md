@@ -24,21 +24,21 @@
 - [x] grid-column-gap
 - [x] grid-row-gap
 - [x] grid-gap
-- [ ] justify-items
-- [ ] align-items
-- [ ] justify-content
-- [ ] align-content
-- [ ] grid-auto-columns
-- [ ] grid-auto-rows
-- [ ] grid-auto-flow
+- [x] justify-items
+- [x] align-items
+- [x] justify-content
+- [x] align-content
+- [x] grid-auto-columns
+- [x] grid-auto-rows
+- [x] grid-auto-flow
 - [x] grid-column-start
 - [x] grid-column-end
 - [x] grid-row-start
 - [x] grid-row-end
 - [x] grid-column
 - [x] grid-row
-- [ ] justify-self
-- [ ] align-self
+- [x] justify-self
+- [x] align-self
 
 ### Keywords & Functions:
 
